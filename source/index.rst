@@ -10,8 +10,8 @@ Welcome to Travel Destinations's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   italy_food
    turkey_food
-
 
 
 Indices and tables
