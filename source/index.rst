@@ -15,6 +15,9 @@ Welcome to Travel Destinations's documentation!
    chile_foods
    chile_travelspots
    italy_food
+   italy_culture
+   italy_famous_people
+   italy_travel
    japan_culture
    japan_famous_people
    japan_food
