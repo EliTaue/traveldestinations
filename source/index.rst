@@ -10,6 +10,10 @@ Welcome to Travel Destinations's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   chile_culture
+   chile_famouspeople
+   chile_foods
+   chile_travelspots
    italy_food
    turkey_food
 
