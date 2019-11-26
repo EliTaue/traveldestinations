@@ -19,6 +19,10 @@ Welcome to Travel Destinations's documentation!
    japan_famous_people
    japan_food
    japan_travel
+   spain_culture
+   spain_famouspeople
+   spain_food
+   spain_travel
    turkey_food
 
 
