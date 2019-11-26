@@ -15,6 +15,14 @@ Welcome to Travel Destinations's documentation!
    chile_foods
    chile_travelspots
    italy_food
+   japan_culture
+   japan_famous_people
+   japan_food
+   japan_travel
+   spain_culture
+   spain_famouspeople
+   spain_food
+   spain_travel
    turkey_food
 
 
