@@ -26,7 +26,13 @@ Welcome to Travel Destinations's documentation!
    spain_famouspeople
    spain_food
    spain_travel
+   turkey_culture
+   turkey_famous_people
    turkey_food
+   turkey_travel
+
+
+
 
 
 Indices and tables
