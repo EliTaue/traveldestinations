@@ -37,3 +37,27 @@ ingredients like rice, beans and herbs that
 are simmered. The large and wide diameter of
 the pan allows for a good meal to have with
 friends, typically during lunch.
+
+Patatas Bravas
+--------------
+Patatas Bravos, or brave potatoes, are one
+of the most common tapas found in Spain. Tapas
+in Spain are like the appetizers or small snacks,
+meant to bridge the gap between meals, since
+dinner is typically eaten later in the day.
+
+Flan
+----
+No highlight of Spanish food is complete
+without mentioning one of their popular
+desserts. While the list goes on and one
+about the different sweets the Spaniards like
+to make, Flan couldn’t not make an appearance
+on discussing delicious staples, as it is
+everywhere in Spain. In a classic flan
+(vanilla), vanilla egg custard is used with
+a caramel sauce on top.
+
+.. rubric:: Footnotes
+
+..
