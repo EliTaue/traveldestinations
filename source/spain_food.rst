@@ -38,6 +38,10 @@ are simmered. The large and wide diameter of
 the pan allows for a good meal to have with
 friends, typically during lunch.
 
+.. image:: s_vegetable paella.jpg
+
+resize
+
 Patatas Bravas
 --------------
 Patatas Bravos, or brave potatoes, are one
