@@ -45,6 +45,12 @@ Theatre:
 
 description of Kno and other theatre stuffs
 
+Clothing:
+
+types of kimonos, etc
+
+language: link to nhk learn japanese
+
 Fun facts:
 
 * population
