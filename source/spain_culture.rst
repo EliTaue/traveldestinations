@@ -49,7 +49,7 @@ Fallas Museum
 cathartic and difficult to describe,
 but resembles a cross between a bawdy
 Disneyland, the Fourth of July, and the
-end of the world," traveler and self-described
+end of the world," [#f1]_ traveler and self-described
 pyromaniac Janet Morton told *Don Quijote*.
 
 The burning of the fallas is not the only
@@ -57,4 +57,10 @@ event held at the festival, bullfights, paella
 contests, beauty pagents and flower offerings draw
 attention as well.
 
-    The festival is known to make a lot of noise and commotion. It’s not for the feint of heart, and pregnant women are not allowed to attend.
+The festival is known to make a lot of noise and
+commotion. It’s not for the feint of heart, and
+pregnant women are not allowed to attend.
+
+.. rubric:: Footnotes
+
+.. [#f1] "`Janet Morton describing Las Fallas <https://www.driftwoodjournals.com/discover-valencias-las-fallas-festival-everything-you-need-to-know-about-spains-most-explosive-festival/>`_." 2017. Retrieved 2019-11-22.

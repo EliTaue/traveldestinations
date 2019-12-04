@@ -35,6 +35,10 @@ a different vision based on gardens
 he had seen in England that incorporated
 the natural elements of nature.
 
+.. figure:: s_park1.jpg
+
+.. figure:: s_park2.jpg
+
 La Sangrada Familia
 ~~~~~~~~~~~~~~~~~~~
 Through multiple heads of construction
@@ -45,6 +49,8 @@ a attentive and patient eye to notice how much
 work and consideration was put into the style.
 It is projected that the church will be completed
 in 2026, although it is hard to tell.
+
+.. image:: s_sangrada-familia.jpg
 
 Madrid
 ------
@@ -59,6 +65,9 @@ performers and cafes open to stop and grab an
 order of churros and chocolate. Plaza Mayor also
 serves tourists with the location of the
 oldest restaurant in the world, Sobrino de Botín.
+
+.. image:: s_plaza1.jpg
+
 
 Estadio Santiago Bernabeu
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -88,6 +97,8 @@ and exchanging by the Moors. Walking through
 the many passageways could get you lost or lead
 you to an entirely new section of the market.
 
+.. image:: s_alcaiceria1.jpg
+
 The Alhambra
 ~~~~~~~~~~~~
 As one of the most visited spots in Spain,
@@ -95,3 +106,4 @@ the Alhambra serves the tourist, the history
 and architecture folk with a royal background
 and the ability to walk through it for hours.
 
+.. image:: s_alhambra1.jpg

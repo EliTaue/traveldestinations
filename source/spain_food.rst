@@ -38,9 +38,9 @@ are simmered. The large and wide diameter of
 the pan allows for a good meal to have with
 friends, typically during lunch.
 
-.. image:: s_vegetable paella.jpg
+.. figure:: s_vegetable-paella.jpg
 
-resize
+   Vegetable Paella [#f1]_
 
 Patatas Bravas
 --------------
@@ -49,6 +49,10 @@ of the most common tapas found in Spain. Tapas
 in Spain are like the appetizers or small snacks,
 meant to bridge the gap between meals, since
 dinner is typically eaten later in the day.
+
+.. figure:: s_patatas-bravas.jpg
+
+    Patatas Bravas [#f2]_
 
 Flan
 ----
@@ -64,4 +68,5 @@ a caramel sauce on top.
 
 .. rubric:: Footnotes
 
-..
+.. [#f1] "`Vegetable Paella <https://www.tienda.com/recipes/vegetarian-paella.html>`_". La Tienda. 2019. Retrieved 2019-11-22.
+.. [#f2] "`Patatas Bravas <https://spanishsabores.com/2018/08/26/patatas-bravas-recipe-spanish-fried-potatoes-with-spicy-sauce/>`_". Spanish Sabores. 2018. Retrieved 2019-22-22.
