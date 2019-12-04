@@ -7,7 +7,7 @@ Sebastian is the current President of Chile. He has
 been serving since 2018, and has served a previous
 term from 2010 to 2014.
 Prior to presidency, he served as senator for East
-Santiago, foundedgi of many socioeconomic foundations,
+Santiago, founder of many socioeconomic foundations,
 and is a well-known economist and businessman.
 .. image:: C_President.jpg
 
