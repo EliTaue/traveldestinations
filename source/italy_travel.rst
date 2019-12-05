@@ -1,5 +1,5 @@
-Italy Travel Desinations
-========================
+Italy Travel Destinations
+=========================
 
 Rome
 ----

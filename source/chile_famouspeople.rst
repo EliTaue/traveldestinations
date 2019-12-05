@@ -1,5 +1,5 @@
-Famous People
-=============
+Chilean Famous People
+=====================
 
 Sebastian Pinera
 ----------------
@@ -9,6 +9,7 @@ term from 2010 to 2014.
 Prior to presidency, he served as senator for East
 Santiago, founder of many socioeconomic foundations,
 and is a well-known economist and businessman.
+
 .. image:: C_President.jpg
 
 *Sebastian Pinera* [#SP1]_
