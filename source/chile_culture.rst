@@ -1,7 +1,22 @@
 Culture
 =======
 
-.. list-table:: Holidays of Chile
+The culture of Chile is similar to many others across South America, a mix of indigenous and Spanish cultures.
+Presently, about 10% of population considers themselves fully indigenous, with the most prominent group
+being the Mapuche. The Mapuche date back to 500-600 BC, and have stayed strong through conquests of the Incans
+and more recently Spaniards.
+
+Religion
+--------
+
+Chile is religiously similar to the rest of South America with the majority (60%) believing in Roman Catholicism.
+However, 25% are non-affiliated and 15% are Christian Protestant, both the highest precentages of any country
+in South America.
+
+Holidays
+--------
+
+.. list-table:: 3 Main Holidays
     :widths: 20 10 50 50
     :header-rows: 1
 

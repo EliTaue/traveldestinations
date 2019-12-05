@@ -30,7 +30,7 @@ Paella originated from Valencia and reigns as an
 all-time favorite of the city with pride. There
 are three main types of paella: meat (chicken,
 rabbit, duck), seafood (shrimp,clams, fish),
-vegatable (vegan) or mixed paella (meat, seafood,
+vegetable (vegan) or mixed paella (meat, seafood,
 vegetables). The name Paella is used to refer
 to the pan that the dish is made in, with
 ingredients like rice, beans and herbs that
