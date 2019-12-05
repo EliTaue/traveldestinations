@@ -20,8 +20,8 @@ Santiago
 Santiago is the capital city of Chile and is a great place to learn more about the culture of Chile.
 The city is always bustling and there are activities and attractions for all kinds of people!
 
-Activities
-----------
+**Activities**
+
 
 
 .. image:: C_Santiago.jpg
@@ -34,6 +34,9 @@ Places to visit in Torres del Paine National Park
 
 
 * Southern Ice Fields
+    * The Southern Ice Fields is the 3rd largest water reserve in the world.
+      It can be viewed two ways, either by boat that can take you up close to
+      the giant or view it from afar on land.
 * Grey Glacier
 * Amarga Lagoon
 
