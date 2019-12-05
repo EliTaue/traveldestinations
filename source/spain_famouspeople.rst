@@ -17,7 +17,7 @@ divine contemplation. She was inspired to find a
 new order built around poverty and simplicity,
 and travelled Spain setting up new convents. She
 is the first woman to be declared a Doctor of
-the Catholic Church.
+the Catholic Church. [f1]_
 
 Pablo Picasso
 -------------
@@ -38,7 +38,7 @@ stages in his art career such as:
 * other classical styles
 
 The Museo Picasso in Barcelona is home to a large
-collection of his pieces.
+collection of his pieces. [#f2]_
 
 Rafael Nadal
 ------------
@@ -54,4 +54,10 @@ professional at 15. As of November 2019, he is
 ranked no. 1 in men's singles tennis and has
 won multiple awards including 19 Grand Slam
 titles and is among the two men who have won all
-four majors and Olympic gold.
+four majors and Olympic gold. [#f3]_
+
+.. rubric:: Footnotes
+
+.. [#f1] Saint Teresa of Avila <https://www.biographyonline.net/spiritual/st_teresa_avila.html> Biography Online. Retrieved 2019-11-27.
+.. [#f2] Pablo Picasso <https://www.biographyonline.net/artists/pablo-picasso.html> Biography Online. Retrieved 2019-11-27.
+.. [#f3] Rafael Nadal <https://www.biography.com/athlete/rafael-nadal> Biography Online. Retrieved 2019-11-27.

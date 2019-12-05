@@ -33,7 +33,7 @@ able to be completed, commissioner
 Eusebi Güell continued to create with
 a different vision based on gardens
 he had seen in England that incorporated
-the natural elements of nature.
+the natural elements of nature. [#f1]_
 
 .. figure:: s_park1.jpg
 
@@ -48,7 +48,7 @@ symbolism and outstanding details that require
 a attentive and patient eye to notice how much
 work and consideration was put into the style.
 It is projected that the church will be completed
-in 2026, although it is hard to tell.
+in 2026, although it is hard to tell. [#f2]_
 
 .. image:: s_sangrada-familia.jpg
 
@@ -64,7 +64,7 @@ eat, the square is always bustling with multiple
 performers and cafes open to stop and grab an
 order of churros and chocolate. Plaza Mayor also
 serves tourists with the location of the
-oldest restaurant in the world, Sobrino de Botín.
+oldest restaurant in the world, Sobrino de Botín. [#f3]_
 
 .. image:: s_plaza1.jpg
 
@@ -78,7 +78,7 @@ and country’s love for futbol with a capacity
 of 81,044 people. People can take a tour that
 goes through the important parts of the stadium
 like the locker room, award room and across the
-field depending on the time of year.
+field depending on the time of year. [#f4]_
 
 .. image:: s_stadium.jpg
 
@@ -95,7 +95,7 @@ historical context. What makes it more unique
 is the history as a former place for silk making
 and exchanging by the Moors. Walking through
 the many passageways could get you lost or lead
-you to an entirely new section of the market.
+you to an entirely new section of the market. [#f5]_
 
 .. image:: s_alcaiceria1.jpg
 
@@ -104,6 +104,15 @@ The Alhambra
 As one of the most visited spots in Spain,
 the Alhambra serves the tourist, the history
 and architecture folk with a royal background
-and the ability to walk through it for hours.
+and the ability to walk through it for hours. [#f6]_
 
 .. image:: s_alhambra1.jpg
+
+.. rubric:: Footnotes
+
+.. [#f1] "`Park Guell <https://travel.usnews.com/Barcelona_Spain/Things_To_Do/Guell_Park_Parc_Guell_26913/>`_". U.S. News & World Report. 2019. Retrieved 2019-11-22.
+.. [#f2] "`La Sangrada Familia <https://travel.usnews.com/Barcelona_Spain/Things_To_Do/Church_of_the_Sacred_Family_Templo_Expiatorio_de_la_Sagrada_Familia_26915/>`_". U.S. News & World Report. 2019. Retrieved 2019-11-22
+.. [#f3] "`Playa Mayor <https://travel.usnews.com/Madrid_Spain/Things_To_Do/Plaza_Mayor_25370/>`_". U.S. News & World Report. 2019. Retrieved 2019-11-22.
+.. [#f4] "`Estadio Santiago Bernabeu <https://travel.usnews.com/Madrid_Spain/Things_To_Do/Bernabeu_Stadium_Estadio_Santiago_Bernabeu_25383/>`_".U.S. News & World Report. 2019. Retrieved 2019-11-22.
+.. [#f5] "`The Alcaiceria <https://travel.usnews.com/Granada_Spain/Things_To_Do/The_Alcaiceria_63419/>`_".  U.S. News & World Report. 2019. Retrieved 2019-11-22.
+.. [#f6] "`The Alhambra <https://travel.usnews.com/Granada_Spain/Things_To_Do/The_Alhambra_63420/>`_". U.S. News & World Report. 2019. Retrieved 2019-11-22.
