@@ -49,7 +49,9 @@ Clothing:
 
 types of kimonos, etc
 
-language: link to nhk learn japanese
+language: Japan's official language is Japanese. To learn some basic Japanese visit NHK's language site `here`_.
+
+.. _here: https://www3.nhk.or.jp/nhkworld/en/learnjapanese/
 
 Fun facts:
 
