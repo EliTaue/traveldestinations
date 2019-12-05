@@ -53,8 +53,11 @@ Nowadays, the hill serves a much more gentle prospect and is a great place to re
 
 Torres del Paine
 ----------------
-Places to visit in Torres del Paine National Park
 
+Places to visit in Torres del Paine National Park
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    *Information Courtesy* [#T4]_
 
 * Southern Ice Fields
     * The Southern Ice Fields is the 3rd largest water reserve in the world.
@@ -64,6 +67,11 @@ Places to visit in Torres del Paine National Park
     * Grey Glacier is the biggest in Torres del Paine and is a part of the Southern Ice Fields.
       This big beauty can be visited by boat tours, hiking trails, and even ice hiking right on
       the glacier.
+
+    .. image:: C_Glacier.jpg
+
+    *Grey Glacier* [#T5]_
+
 * Amarga Lagoon
     * The Amarga Lagoon is an impressive site. Visit by foot or lake in the Torres del Paine Park!
 
@@ -75,12 +83,10 @@ Places to visit in Torres del Paine National Park
     * This large waterfall is one of the most easily accessible attractions in the park.
       The best way to view this giant its lookout, but prepared for stong winds and some mist!
 
-    *Information Courtesy* [#T4]_
-
-
 .. rubric:: Footnotes
 
 .. [#T1] "`Atacama <https://www.nikonusa.com/en/learn-and-explore/nikon-school/workshop/htqz9jbg/a-photographic-expedition-in-patagonia-and-atacama-chile.html#!/media:image:Katsu-Tanaka-2014_patagonia_mountains-030.jpg>`_". Nikon USA. (2015) Retrieved 2019-12-04.
 .. [#T2] "`Sky Costanera <https://www.tripadvisor.com/Attraction_Review-g294305-d8594663-Reviews-Sky_Costanera-Santiago_Santiago_Metropolitan_Region.html#photos;aggregationId=101&albumid=101&filter=7&ff=435174897/>`_". Trip Advisor. (2019-09) Retrieved 2019-12-04.
 .. [#T3] "`Amarga Lagoon <https://torresdelpaine.com/en/atraccion/amarga-lagoon/>`_". Torres Del Paine. (2013) Retrieved 2019-12-03.
-.. [#T4] "`Information <https://torresdelpaine.com/en/>`_Torres Del Paine. (2013) Retrieved 2019-12-03.
+.. [#T4] "`Information <https://torresdelpaine.com/en/>`_ Torres Del Paine. (2013) Retrieved 2019-12-03.
+.. [#T5] "`Gray Glacier <https://www.tripadvisor.com/Attraction_Review-g297400-d318184-Reviews-Glacier_Grey-Puerto_Natales_Magallanes_Region.html#photos;aggregationId=101&albumid=101&filter=7&ff=386556215>`_". Trip Advisor. (2019-05) Retrieved 2019-12-05.
