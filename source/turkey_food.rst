@@ -1,5 +1,5 @@
-Turkey Food
-===========
+Turkish Food
+============
 Not only does Turkey have an enriching culture but it
 also has a variety of delicious dishes. Its cuisine is
 influenced by Greek, Middle Eastern, Central Asian, and
@@ -21,6 +21,8 @@ A typical Turkish breakfast is comprised of:
 * Omelet
 * Sliced tomatoes
 * Sliced cucumbers
+
+..figure::
 
 A breakfast favorite would have to be *Sucuk*.
 Sucuk is dried sausage made of ground beef with
