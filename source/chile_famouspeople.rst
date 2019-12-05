@@ -1,5 +1,5 @@
-Famous People
-=============
+Chilean Famous People
+=====================
 
 Sebastian Pinera
 ----------------

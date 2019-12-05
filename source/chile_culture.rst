@@ -1,5 +1,5 @@
-Culture
-=======
+Chilean Culture
+===============
 
 The culture of Chile is similar to many others across South America, a mix of indigenous and Spanish cultures.
 Presently, about 10% of population considers themselves fully indigenous, with the most prominent group

@@ -1,5 +1,5 @@
 Chilean Food
-===============
+============
 
 Due to it's mixed heritage of indigenous customs and Spanish additions, the cuisine of Chile is
 very interesting to most visitors. Further more the separation of many parts of the country from
