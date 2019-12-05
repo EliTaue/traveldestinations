@@ -35,6 +35,10 @@ of the dark winter. After a while, the parots
 were dressed up with clothing to identify a
 local-personality
 
+.. figure:: s_ninots1.jpg
+
+   Ninots [#f1]_
+
 The ninots, some with a cost of $100,000 dollars
 to make and a year to make, are paraded around
 the city and then set on fire under a big firework
@@ -49,8 +53,12 @@ Fallas Museum
 cathartic and difficult to describe,
 but resembles a cross between a bawdy
 Disneyland, the Fourth of July, and the
-end of the world," [#f1]_ traveler and self-described
+end of the world," [#f2]_ traveler and self-described
 pyromaniac Janet Morton told *Don Quijote*.
+
+.. figure:: s_ninots2.jpg
+
+   Giant burning ninot for La Crema [#f3]_
 
 The burning of the fallas is not the only
 event held at the festival, bullfights, paella
@@ -61,6 +69,33 @@ The festival is known to make a lot of noise and
 commotion. It’s not for the feint of heart, and
 pregnant women are not allowed to attend.
 
+Festivals
+---------
+
+To convey how much festivals are rooted into the
+culture and identity of Spanish life, below are a
+list of other popular festivals that are attented
+by the locals and tourists alike.
+
+============= ===================================== ===========================================
+When (2020)    Name                                 Description/ Activities
+============= ===================================== ===========================================
+Jan 19-20     Tamborrada                            Eating and drinking wine while
+                                                    watching drummers parade around the city
+Mar 15-19     Las Fallas                            Weeks long of excitement and preperation
+                                                    to make big statues with other activities
+Feb 20- Mar 1 Carnival                              Crazy event with costumes, street parties
+                                                    and circus themed events
+Apr 25- May 2 Seville Feria                         Parades, regional food and dancing
+Jun 27-30     Haro Wine Festival                    Main feature is a wine fight
+Jul 6-14      San Fermin & The Running of the Bulls One of the most famous festivals in Spain,
+                                                    at the start of the day bulls are
+                                                    released to chase large crowd through city.
+============= ===================================== ===========================================
+
+
 .. rubric:: Footnotes
 
-.. [#f1] "`Janet Morton describing Las Fallas <https://www.driftwoodjournals.com/discover-valencias-las-fallas-festival-everything-you-need-to-know-about-spains-most-explosive-festival/>`_." 2017. Retrieved 2019-11-22.
+.. [#f1] "`Ninots <https://www.driftwoodjournals.com/discover-valencias-las-fallas-festival-everything-you-need-to-know-about-spains-most-explosive-festival/>`_." Driftwood Journals. 2017. Retrieved 2019-11-22.
+.. [#f2] "`Janet Morton describing Las Fallas <https://www.driftwoodjournals.com/discover-valencias-las-fallas-festival-everything-you-need-to-know-about-spains-most-explosive-festival/>`_." Driftwood Journals. 2017. Retrieved 2019-11-22.
+.. [#f3] "`Giant burning ninot for La Crema <https://www.driftwoodjournals.com/discover-valencias-las-fallas-festival-everything-you-need-to-know-about-spains-most-explosive-festival/>`_." Driftwood Journals. 2017. Retrieved 2019-11-22.

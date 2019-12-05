@@ -66,7 +66,12 @@ everywhere in Spain. In a classic flan
 (vanilla), vanilla egg custard is used with
 a caramel sauce on top.
 
+.. figure:: s_flan.jpg
+
+   Flan [#f3]_
+
 .. rubric:: Footnotes
 
 .. [#f1] "`Vegetable Paella <https://www.tienda.com/recipes/vegetarian-paella.html>`_". La Tienda. 2019. Retrieved 2019-11-22.
 .. [#f2] "`Patatas Bravas <https://spanishsabores.com/2018/08/26/patatas-bravas-recipe-spanish-fried-potatoes-with-spicy-sauce/>`_". Spanish Sabores. 2018. Retrieved 2019-22-22.
+.. [#f3] "`Flan <https://www.curiouscuisiniere.com/spanish-flan/>`_". Curious Cuisiniere. 2018. Retrieved 2019-11-23.
