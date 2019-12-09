@@ -56,6 +56,8 @@ won multiple awards including 19 Grand Slam
 titles and is among the two men who have won all
 four majors and Olympic gold. [#f3]_
 
+*All of the photos taken on this page were by BR*
+
 .. rubric:: Footnotes
 
 .. [#f1] Saint Teresa of Avila <https://www.biographyonline.net/spiritual/st_teresa_avila.html> Biography Online. Retrieved 2019-11-27.
