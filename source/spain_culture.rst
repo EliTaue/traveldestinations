@@ -6,7 +6,7 @@ Las Fallas de Valencia
 Spain holds thousands of festivals and
 celebrations each year, but one of the major
 festivals that brings in people from around
-the world each year is Las Fallas. The festival
+the world each year is **Las Fallas**. The festival
 is held in the city of Valencia from March 15-19,
 but the excitement and preparation starts way
 before then. [#f1]_
@@ -47,13 +47,15 @@ display on March 19, La Crema as it is called.
 One ninot is spared from burning by winning
 the popular vote. This ninot, the ninot
 indultat, is saved and stored in the local
-Fallas Museum.
+Fallas Museum. `This`_ was the ninot indultat of 2019.
 
-"The scene at Las Fallas is extremely
+.. _this: https://www.levante-emv.com/fallas/2019/03/15/ganador-ninot-indultat-2019-fallas/1848852.html
+
+**"The scene at Las Fallas is extremely
 cathartic and difficult to describe,
 but resembles a cross between a bawdy
 Disneyland, the Fourth of July, and the
-end of the world," [#f5]_ traveler and self-described
+end of the world,"** [#f5]_ traveler and self-described
 pyromaniac Janet Morton told *Don Quijote*.
 
 .. figure:: s_ninots2.jpg

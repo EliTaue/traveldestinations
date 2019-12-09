@@ -31,11 +31,11 @@ to live in Paris. He is known to have adapted
 different styles and went through different
 stages in his art career such as:
 
-* the rose period
-* the blue period
-* cubism
-* neo-classical
-* other classical styles
+* **the rose period**
+* **the blue period**
+* **cubism**
+* **neo-classical**
+* **other classical styles**
 
 The Museo Picasso in Barcelona is home to a large
 collection of his pieces. [#f2]_

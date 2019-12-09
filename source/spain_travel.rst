@@ -108,6 +108,12 @@ and the ability to walk through it for hours. [#f6]_
 
 .. image:: s_alhambra1.jpg
 
+To see more of what destinations Spain has to
+offer, click `here`_ to see a Spain Travel
+Guide by S.S. News & World Report.
+
+.. _here: https://travel.usnews.com/Destinations/Europe/Spain/
+
 .. rubric:: Footnotes
 
 .. [#f1] "`Park Guell <https://travel.usnews.com/Barcelona_Spain/Things_To_Do/Guell_Park_Parc_Guell_26913/>`_". U.S. News & World Report. 2019. Retrieved 2019-11-22.
