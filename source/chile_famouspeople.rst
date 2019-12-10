@@ -3,7 +3,7 @@ Chilean Famous People
 
 Sebastian Pinera
 ----------------
-Sebastian is the current President of Chile. He has
+Sebastian is the current President of **Chile**. He has
 been serving since 2018, and has served a previous
 term from 2010 to 2014.
 Prior to presidency, he served as senator for East
@@ -17,7 +17,7 @@ and is a well-known economist and businessman.
 Alexis Sanchez
 --------------
 Alexis Sanchez is a professional soccer player who
-has played for teams in Chile, Spain, Italy, and
+has played for teams in **Chile**, Spain, Italy, and
 England. He currently plays for Inter Milan, on loan
 from Manchester United. He is the all-time leading
 goal scorer for the Chilean National Soccer Team and

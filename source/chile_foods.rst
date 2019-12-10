@@ -2,9 +2,9 @@ Chilean Food
 ============
 
 Due to it's mixed heritage of indigenous customs and Spanish additions, the cuisine of Chile is
-very interesting to most visitors. Further more the separation of many parts of the country from
+very interesting to most visitors. Furthermore the separation of many parts of the country from
 other South American countries differentiates its cuisine. Below are some of the many tasty treats
-you can try in Chile!
+you can try in **Chile**!
 
 Empanadas
 ---------
@@ -22,13 +22,13 @@ onions, red peppers, and many spices.
 Cazuela
 -------
 
-Cazuela is the most popular soup in Chile. It consists of hot broth with large meat chunks,
+Cazuela is the most popular soup in **Chile**. It consists of hot broth with large meat chunks,
 potatoes, pumpkin, and corn noodles.
 
 Humitas
 -------
 
-From pre-hispanic Andean cultures, a humita are similar to Mexican tamales, but are very sweet.
+From pre-hispanic Andean cultures, a humita are similar to a Mexican tamale, but are very sweet.
 
 Mote con Huesillos
 ------------------
@@ -42,8 +42,8 @@ Drink made of husked wheat (mote) and dried peaches (huesillos) in sugary water.
 Vino Rojo (Red Wine)
 --------------------
 
-Chile's red wine is world-renowned. The central part of Chile is well-suited for grape growing.
-Some of the better known red wines from Chile are Chardonnay, Pinot Noir, and Cabernet Sauvignon.
+**Chile**'s red wine is world-renowned. The central part of **Chile** is well-suited for grape growing.
+Some of the better known red wines from **Chile** are Chardonnay, Pinot Noir, and Cabernet Sauvignon.
 
 .. rubric:: Footnotes
 
