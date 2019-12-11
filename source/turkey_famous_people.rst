@@ -9,6 +9,11 @@ Famous Turkish Person
 * Annual Salary: $ 4 million
 * Net Worth: $ 14 million
 
+
+.. figure:: oz_famous.jpg
+
+Dr.Oz [#bm3]_
+
 **Quick Bio**
 
 He is a well-known cardiothoracic surgeon.
@@ -21,7 +26,9 @@ University of Pennsylvania School of Medicine
 and Penn’s Wharton School. He was then an educator
 at the Department of Surgery for Columbia University.
 He has written over 400 medical books and research
-papers. He had his first big break on Oprah’s TV show
+papers.
+
+He had his first big break on Oprah’s TV show
 in 2004. That then opened the door for him, and he
 began appearing on Larry King Live, The View, Charlie
 Rose, Today, and Good Morning America. In 2009 Dr. Oz
@@ -32,3 +39,6 @@ will be renewed for another season. Even with the show
 Dr. Oz is the chairman and founder of HealthCorps.
 However, from all his success Dr. Oz faces criticism
 for the mention of pseudoscience on his show.
+
+
+.. [#bm3] "`Dr.Oz Photo <https://www.doctoroz.com/>`_". OZ. Unknown. Retrieved 2019-12-11.

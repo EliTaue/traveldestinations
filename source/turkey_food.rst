@@ -22,7 +22,9 @@ A typical Turkish breakfast is comprised of:
 * Sliced tomatoes
 * Sliced cucumbers
 
-..figure::
+.. figure:: turkish_breakfast.webp
+
+   Traditional breakfast [#bm1]_
 
 A breakfast favorite would have to be *Sucuk*.
 Sucuk is dried sausage made of ground beef with
@@ -36,6 +38,10 @@ kebab is a pita that is filled with either
 chicken or lamb then topped with tomato, lettuce,
 and dressed with a yogurt sauce similar to tzatziki.
 
+.. figure:: t_doner_kebab.jpg
+
+   Turkish doner kebab [#bm2]_
+
 **Turkish Dinner:**
 
 Around dinner time a dish called dolma
@@ -44,4 +50,7 @@ or a main meal. sarma is made with grape
 vine leaves stuffed with rice and spices,
 then simmered in olive oil. It is served cold.
 
+.. [#bm1] "`Everything You Need to Know About a Full Turkish Breakfast <https://www.foodandwine.com/breakfast-brunch/make-turkish-breakfast-kahvalti>`_". Food and Wine. August 10, 2017. Retrieved 2019-12-11.
 
+
+.. [#bm2] "`Turkish Doner Kebab <https://www.thefork.com/restaurant/turkish-doner-kebab/543489>`_". The Fork. Unknown. Retrieved 2019-12-11.
