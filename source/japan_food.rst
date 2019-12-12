@@ -1,20 +1,18 @@
 Japanese Food
 ===================
 
-Introduction Paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Introduction Paragraph: [#f1]_
 
-.. image:: japan_food.png
-    :width: 50%
+.. figure:: j_food.jpg
+
+    Food [#f2]_
 
 
-More food info: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+More food info: [#f3]_
 
-Recipe: Sushi Roll [#f1]
+**Make some yourself**
+
+Recipe: Sushi Roll [#f4]_
 
 **Allergen Notice:** *Please note that this recipe contains fish, particularly imitation crab meat. Please substitute for another meat if you are allergic or make a veggie roll instead.*
 
@@ -36,8 +34,12 @@ Recipe: Sushi Roll [#f1]
 
 *Tip: use a clean dish towel in place of the bamboo sushi mat.*
 
-Ending Idea: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ending Idea: [#f5]_
 
 .. rubric:: Footnotes
 
-..[#f1] "Sushi Roll" 1ORANGE1. allrecipes.com. Retrieved on 2019-12-05.
+.. [#f1] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
+.. [#f2] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
+.. [#f3] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
+.. [#f4] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
+.. [#f5] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.

@@ -59,3 +59,14 @@ Fun facts:
 * land size
 * most eaten food
 * etc
+
+.. rubric:: Footnotes
+
+.. [#f1] "`Mt. Fuji <https://www.japan.travel/en/fuji-guide//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
+.. [#f2] "`Mt. Fuji Picture <https://english.kyodonews.net/news/2019/05/308ed3308788-governor-looks-to-draw-up-mt-fuji-railway-plan-in-2-yrs.html/>`_". Kyodo News. 2019. Retrieved 2019-12-10.
+.. [#f3] "`Okinawa Churaumi Aquarium <https://www.japan.travel/en/spot/581//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
+.. [#f4] "`Churaumi Aquarium Picture <https://www.japan-guide.com/e/e7109.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
+.. [#f5] "`Tokyo <https://www.japan.travel/en/destinations/kanto/tokyo//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
+.. [#f6] "`Tokyo Picture <https://www.japan-guide.com/e/e2164.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
+.. [#f7] "`Maruoka Castle <https://www.japan.travel/en/spot/1381//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
+.. [#f8] "`Maruoka Castle Picture <https://planetyze.com/en/japan/fukui/maruoka-castle/>`_". Planetyze. 2019. Retrieved 2019-12-10.
