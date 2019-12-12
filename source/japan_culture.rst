@@ -22,7 +22,7 @@ Culture Day         November 3rd
 Japan's main two religions are Shinto and Buddhism. Many Japanese people practice both religions. However, Japanese people are not usually super religious and many children do not receive formal religious training. [#f3]_
 
 ================== ================================
-Religion [#f4]_     Approx. percent of Population
+Religion [#f4]_     Approx. Percent of Population
 ================== ================================
 Shinto               79%
 Buddhism             67%
@@ -48,11 +48,15 @@ Noh theatre is an old form of Japanese storytelling. Noh involves slow movement 
 
 One of the most famous examples of Japanese clothing is the Kimono. A kimono is a t-shaped that is wrapped in a particular fashion. Kimonos are worn for special occasions in modern day but were the main clothing in Japanese history. Different patterns of fabric and colors have different significance and show importance. [#f6]_
 
+.. figure:: j_kimono.jpg
+
+    Japanese Kimonos [#f7]_
+
 **Language:**
 
-Japan's official language is Japanese. To learn some basic Japanese visit NHK's language site `here`_.
+Japan's official language is Japanese. To learn some basic Japanese visit NHK's language `site`_.
 
-.. _here: https://www3.nhk.or.jp/nhkworld/en/learnjapanese/
+.. _site: https://www3.nhk.or.jp/nhkworld/en/learnjapanese/
 
 
 .. rubric:: Footnotes
@@ -63,3 +67,4 @@ Japan's official language is Japanese. To learn some basic Japanese visit NHK's 
 .. [#f4] "`Religion Table <https://www.britannica.com/place/Japan/Religion#/media/1/300531/208939/>`_". Encyclopedia Britannica. 2019. Retrieved 2019-12-10.
 .. [#f5] "`Noh Theatre <https://www.japan-guide.com/e/e2091.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
 .. [#f6] "`Kimonos <https://jpninfo.com/3264/>`_". Japan Info. 2019. Retrieved 2019-12-10.
+.. [#f7] "`Kimono Picture <https://kyotokimono-rental.com/en/column/kimono-rental-growing-japan.html/>`_". Kyoto Kimono Rental. 2019. Retrieved 2019-12-10.

@@ -8,7 +8,7 @@ Japan is home to a wide variety of delectable dishes. The most popular Japanese 
     Sushi [#f2]_
 
 
-Every prefecture has special dishes that they are known for nation-wide. For example, Okinawa prefecture is known for taco rice, which consists of American-style taco fillings on rice instead of a tortilla, and for their special alcohols. [#f3]_
+Every prefecture has special dishes that they are known for nation-wide. For example, Okinawa prefecture is known for taco rice, which consists of American-style taco fillings on rice instead of a tortilla. Okinawa is also known for their special alcohols, including Orion beer made on the islands and awamori (a distilled spirit made from thai-style rice and a mold indigenous to Okinawa). [#f3]_
 
 .. figure:: j_taco_rice.jpg
 
