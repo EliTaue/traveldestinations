@@ -49,4 +49,4 @@ Recipe: Sushi Roll [#f5]_
 .. [#f2] "`Sushi Picture <https://livejapan.com/en/article-a0000370//>`_". Live Japan. 2018. Retrieved 2019-12-05.
 .. [#f3] "`Okinawa Food <https://www.japan-guide.com/e/e7128.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
 .. [#f4] "`Taco Rice Picture <https://www.japan-guide.com/e/e7128.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
-.. [#f5] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. 2019. Retrieved 2019-12-05.
+.. [#f5] "`Sushi Roll Recipe <https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. 2019. Retrieved 2019-12-05.
