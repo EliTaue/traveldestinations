@@ -1,72 +1,65 @@
 Japanese Culture
 ======================
 
-.. image:: japan.png
+**Holidays:**
 
-Holidays:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Japanese holidays are more like festivals. Often Japanese people do not participate in the religious origins of the holidays but do participate in the holiday itself. Some Japanese Holidays are presented in the table below. [#f1]_
 
 ================== =====================
-Holiday                  Date
+Holiday [#f2]_       Date
 ================== =====================
-1                    num
-2                    num
-3                    num
-4                    num
-================== =====================
-
-Religion:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-================== =====================
-Table for religion  with percent of pop
-================== =====================
-1                    num
-2                    num
-3                    num
-4                    num
+New year            January 1st
+Setsubun            February 3rd
+Valentine's Day     February 14th
+White Day           March 14th
+Golden Week         April 29th - May 5th
+Culture Day         November 3rd
 ================== =====================
 
-Music:
 
-link to artist
+**Religion:**
 
-Description of music: Lorem ipsum dolor sit amet, consectetur.
+Japan's main two religions are Shinto and Buddhism. Many Japanese people practice both religions. However, Japanese people are not usually super religious and many children do not receive formal religious training. [#f3]_
 
-Theatre:
+================== ================================
+Religion [#f4]_     Approx. percent of Population
+================== ================================
+Shinto               79%
+Buddhism             67%
+Christianity          2%
+Other                 7%
+================== ================================
 
-description of Kno and other theatre stuffs
+**Music:**
 
-Clothing:
+Japan has a wide variety of music. While Japan is known for their pop stars, they also have traditional music.
 
-types of kimonos, etc
+Try the popular Japanese pop group `AKB48`_ or the traditional music known as `Gagaku`_.
 
-language: Japan's official language is Japanese. To learn some basic Japanese visit NHK's language site `here`_.
+.. _AKB48: https://www.youtube.com/watch?v=0pKfxbCHLoU
+
+.. _Gagaku: https://www.youtube.com/watch?v=cCiO9B6HAFs&feature=emb_logo
+
+**Theatre:**
+
+Noh theatre is an old form of Japanese storytelling. Noh involves slow movement dancing to rhythmic music to tell a story. Stories can be based on legend, history or modern events and usually involve the supernatural or dreams. Noh stages are very specific and include a bridge and a roof. [#f5]_
+
+**Clothing:**
+
+One of the most famous examples of Japanese clothing is the Kimono. A kimono is a t-shaped that is wrapped in a particular fashion. Kimonos are worn for special occasions in modern day but were the main clothing in Japanese history. Different patterns of fabric and colors have different significance and show importance. [#f6]_
+
+**Language:**
+
+Japan's official language is Japanese. To learn some basic Japanese visit NHK's language site `here`_.
 
 .. _here: https://www3.nhk.or.jp/nhkworld/en/learnjapanese/
 
-Fun facts:
-
-* population
-* land size
-* most eaten food
-* etc
 
 .. rubric:: Footnotes
 
-.. [#f1] "`Mt. Fuji <https://www.japan.travel/en/fuji-guide//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
-.. [#f2] "`Mt. Fuji Picture <https://english.kyodonews.net/news/2019/05/308ed3308788-governor-looks-to-draw-up-mt-fuji-railway-plan-in-2-yrs.html/>`_". Kyodo News. 2019. Retrieved 2019-12-10.
-.. [#f3] "`Okinawa Churaumi Aquarium <https://www.japan.travel/en/spot/581//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
-.. [#f4] "`Churaumi Aquarium Picture <https://www.japan-guide.com/e/e7109.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
-.. [#f5] "`Tokyo <https://www.japan.travel/en/destinations/kanto/tokyo//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
-.. [#f6] "`Tokyo Picture <https://www.japan-guide.com/e/e2164.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
-.. [#f7] "`Maruoka Castle <https://www.japan.travel/en/spot/1381//>`_". Japan National Tourism Organization. 2019. Retrieved 2019-12-10.
-.. [#f8] "`Maruoka Castle Picture <https://planetyze.com/en/japan/fukui/maruoka-castle/>`_". Planetyze. 2019. Retrieved 2019-12-10.
+.. [#f1] "`Holidays <https://www.japan-zone.com/culture/holiday.shtml/>`_". Japan-Zone. 2019. Retrieved 2019-12-10.
+.. [#f2] "`Holiday Table <https://www.japan-guide.com/e/e2062.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
+.. [#f3] "`Religion <https://www.britannica.com/place/Japan/Religion/>`_". Encyclopedia Britannica. 2019. Retrieved 2019-12-10.
+.. [#f4] "`Religion Table <https://www.britannica.com/place/Japan/Religion#/media/1/300531/208939/>`_". Encyclopedia Britannica. 2019. Retrieved 2019-12-10.
+.. [#f5] "`Noh Theatre <https://www.japan-guide.com/e/e2091.html/>`_". Japan-Guide. 2019. Retrieved 2019-12-10.
+.. [#f6] "`Kimonos <https://jpninfo.com/3264/>`_". Japan Info. 2019. Retrieved 2019-12-10.

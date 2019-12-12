@@ -35,5 +35,5 @@ Honda Soichiro was a famous industrialist and engineer. He was born in the Shizu
 .. [#f2] "`Yoko Ono Biography <https://www.imdb.com/name/nm0648780/bio?ref_=nm_ov_bio_sm/>`_". IMDb. 2019. Retrieved 2019-12-10.
 .. [#f3] "`Hayao Miyazaki Picture <https://www.imdb.com/name/nm0594503/mediaviewer/rm1558808832/>`_". IMDb. 2019. Retrieved 2019-12-10.
 .. [#f4] "`Hayao Miyazaki Biography <https://www.imdb.com/name/nm0594503/bio?ref_=nm_ov_bio_sm/>`_". IMDb. 2019. Retrieved 2019-12-10.
-.. [#f5] "`Honda Soichiro Picture <https://www.britannica.com/biography/Honda-Soichiro#/media/1/270752/97364/>`_". Britannica. 2019. Retrieved 2019-12-10.
-.. [#f6] "`Honda Soichiro Biography <https://www.britannica.com/biography/Honda-Soichiro/>`_". Britannica. 2019. Retrieved 2019-12-10.
+.. [#f5] "`Honda Soichiro Picture <https://www.britannica.com/biography/Honda-Soichiro#/media/1/270752/97364/>`_". Encyclopedia Britannica. 2019. Retrieved 2019-12-10.
+.. [#f6] "`Honda Soichiro Biography <https://www.britannica.com/biography/Honda-Soichiro/>`_". Encyclopedia Britannica. 2019. Retrieved 2019-12-10.

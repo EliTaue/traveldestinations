@@ -3,9 +3,9 @@ Japanese Food
 
 Introduction Paragraph: [#f1]_
 
-.. figure:: j_food.jpg
+.. figure:: j_sushi.jpg
 
-    Food [#f2]_
+    Sushi [#f2]_
 
 
 More food info: [#f3]_
@@ -39,7 +39,7 @@ Ending Idea: [#f5]_
 .. rubric:: Footnotes
 
 .. [#f1] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
-.. [#f2] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
+.. [#f2] "`Sushi Picture <https://livejapan.com/en/article-a0000370//>`_". Live Japan. 2018. Retrieved 2019-12-05.
 .. [#f3] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
 .. [#f4] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
 .. [#f5] "`Sushi Roll Recipe<https://www.allrecipes.com/recipe/24228/sushi-roll//>`_". 1ORANGE1. allrecipes.com. Retrieved 2019-12-05.
